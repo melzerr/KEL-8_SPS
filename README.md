@@ -39,7 +39,7 @@ In the same Rust source file, find the serial port string
 Replace it with the correct port for your machine
 (You can verify the port in Arduino IDE → Tools → Port)
 
-## Enjoy!
+###Enjoy!
 Once both terminals are running and the token/port are correctly configured:
 
 Real-time sensor data will be received

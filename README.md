@@ -3,7 +3,7 @@
 
 ## Overview
 This project consists of a Rust-based backend and a Python (PyQt5) frontend for an electronic nose (E-Nose) data acquisition and visualization system.  
-Data is streamed from an Arduino/sensor board, stored in InfluxDB, Edge Impuls, and displayed in real-time on the GUI.
+Data is streamed from an Arduino Uno R4/sensor board, stored in InfluxDB, Edge Impuls, and displayed in real-time on the GUI.
 
 ## How to Run the Project (Step-by-Step)
 

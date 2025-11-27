@@ -12,6 +12,7 @@ Data is streamed from an Arduino Uno R4/sensor board, stored in InfluxDB, Edge I
 git clone https://github.com/melzerr/KEL-8_SPS.git
 cd KEL-8_SPS
 Start the Rust Backend
+or simply download and extract the ZIP file.
 
 Open a terminal
 Navigate to the backend folder:

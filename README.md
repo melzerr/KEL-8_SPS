@@ -127,7 +127,6 @@ This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` fi
 
 Thanks for checking out the Sensor Processing System! We hope it's useful for your sensor data processing needs.
 
-![KEL 8 GACOR](Screenshot%202025-12-02%20215930.png)
 
 
 

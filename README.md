@@ -1,4 +1,4 @@
-# Sensor Processing System (SPS) 🧪
+# SISTEM PENGOLAHAN SINYAL 🧪
 
 The Sensor Processing System (SPS) is a comprehensive solution for acquiring, processing, visualizing, and logging sensor data. It consists of a Rust backend that interfaces with sensor hardware (e.g., Arduino) and a PyQt-based GUI for real-time data display and control. The system supports data logging to CSV files and optional integration with InfluxDB for persistent storage and analysis. It solves the problem of efficiently collecting and interpreting sensor data in a user-friendly manner.
 
@@ -126,3 +126,7 @@ This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` fi
 ## 💖 KELOMPOK 8
 
 Thanks for checking out the Sensor Processing System! We hope it's useful for your sensor data processing needs.
+
+![KEL 8 GACOR](https://github.com/melzerr/KEL-8_SPS/blob/main/Screenshot%202025-12-02%20215930.png)
+
+

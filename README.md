@@ -125,8 +125,10 @@ This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` fi
 
 ## 💖 KELOMPOK 8
 
+## 💖 KELOMPOK 8
+
 Thanks for checking out the Sensor Processing System! We hope it's useful for your sensor data processing needs.
 
-![KEL 8 GACOR](https://github.com/melzerr/KEL-8_SPS/blob/main/Screenshot%202025-12-02%20215930.png)
+![KEL 8 GACOR](https://raw.githubusercontent.com/melzerr/KEL-8_SPS/main/Screenshot%202025-12-02%20215930.png)
 
 

@@ -116,16 +116,8 @@ SPS/
 │   │   └── main.rs       # Main Rust file
 │   ├── Cargo.toml        # Rust project manifest
 │   └── Cargo.lock        # Rust dependencies lock file
-└── ...                   # Other files and directories
-```
 
-## 📸 Screenshots
 
-(Add screenshots of the GUI here to showcase the application)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
 ## 📝 License
 

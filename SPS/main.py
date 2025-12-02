@@ -1,10 +1,10 @@
 import sys
-from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
+from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
                              QHBoxLayout, QLabel, QPushButton, QLineEdit, 
                              QComboBox, QGroupBox, QGridLayout, QFileDialog, 
                              QMessageBox, QScrollArea)
-from PyQt5.QtCore import QTimer, Qt, QThread, pyqtSignal
-from PyQt5.QtGui import QFont
+from PyQt6.QtCore import QTimer, Qt, QThread, pyqtSignal
+from PyQt6.QtGui import QFont
 import pyqtgraph as pg
 import numpy as np
 from datetime import datetime
@@ -242,8 +242,8 @@ class ENoseGUI(QMainWindow):
         # ===== PANEL KIRI DENGAN SCROLLBAR =====
         scroll_area = QScrollArea()
         scroll_area.setWidgetResizable(True)
-        scroll_area.setHorizontalScrollBarPolicy(Qt.ScrollBarAsNeeded)
-        scroll_area.setVerticalScrollBarPolicy(Qt.ScrollBarAsNeeded)
+        scroll_area.setHorizontalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAsNeeded)
+        scroll_area.setVerticalScrollBarPolicy(Qt.ScrollBarPolicy.ScrollBarAsNeeded)
         scroll_area.setMaximumWidth(450)
         scroll_area.setStyleSheet("QScrollArea { border: none; background-color: #0a0a0a; }")
         
@@ -361,7 +361,7 @@ class ENoseGUI(QMainWindow):
         
         title = QLabel("Real-Time Sensor Visualization")
         title.setStyleSheet("color: #ffffff; font-size: 16pt; font-weight: bold; padding: 10px;")
-        title.setAlignment(Qt.AlignCenter)
+        title.setAlignment(Qt.AlignmentFlag.AlignCenter)
         right_layout.addWidget(title)
         
         # Grafik
@@ -648,4 +648,4 @@ if __name__ == '__main__':
     app.setStyle('Fusion')
     window = ENoseGUI()
     window.show()
-    sys.exit(app.exec_())
+    sys.exit(app.exec())

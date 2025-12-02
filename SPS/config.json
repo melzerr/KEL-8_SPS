@@ -1,0 +1,16 @@
+{
+  "serial_port": "COM12",
+  "baud_rate": 9600,
+  "influxdb": {
+    "url": "http://localhost:8086",
+    "token": "jOeyQdgu58KLPoPOiMhGcnUZVjIKU80HT7umg30mU0z5V6wdzKpfSeT4X_g-MGLpuBaL_kmfZxznSs9irQfaUA==",
+    "org": "ITS",
+    "bucket": "Cuz"
+  },
+  "ports": {
+    "rust_data_port": 8085,
+    "rust_cmd_port": 8082,
+    "rust_status_port": 8087,
+    "arduino_wifi_port": 8081
+  }
+}

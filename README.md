@@ -11,6 +11,25 @@ The Sensor Processing System (SPS) is a comprehensive solution for acquiring, pr
 - **Status Monitoring**: Receives status updates from the Rust backend, particularly regarding InfluxDB connectivity.
 - **Configurable**: Loads configuration settings from a JSON file (`config.json`), allowing customization of various parameters.
 - **Cross-Platform**: The GUI is built with PyQt, making it potentially cross-platform compatible. The backend is written in Rust, known for its performance and reliability.
+- 
+## Deskripsi Proyek
+Sistem E-Nose otomatis untuk pengambilan data pelatihan machine learning.  
+Perangkat menjalankan 5 level intensitas bau secara berurutan dengan protokol:
+- Pre-conditioning sensor  
+- Ramp-up kipas perlahan  
+- Hold sampel selama 2 menit  
+- Purge chamber + pompa selama 4 menit  
+- Recovery singkat, lalu lanjut ke level berikutnya  
+
+Data sensor (NO₂, C₂H₅OH, VOC, CO dari GM-XXX + CO, Ethanol, VOC dari MiCS-5524) dikirim real-time ke server Rust via WiFi untuk proses training ML.
+
+## Anggota Tim
+
+| No | Nama Anggota                  | NIM          |
+|----|-------------------------------|--------------|
+| 1  | Imelda Lutfi Kr               | 2042241013   |
+| 2  | Jeslyne Alma O D              | 2042241018   |
+| 3  | Febri Firmansyah              | 2042241103   |
 
 ## 🛠️ Tech Stack
 

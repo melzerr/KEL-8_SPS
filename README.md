@@ -7,7 +7,7 @@ The Sensor Processing System (SPS) is a comprehensive solution for acquiring, pr
 | No | Nama Anggota                  | NIM          |
 |----|-------------------------------|--------------|
 | 1  | Imelda Lutfi Kr               | 2042241013   |
-| 2  | Jeslyne Alma O D              | 2042241018   |
+| 2  | Jeslyne Olita A D             | 2042241018   |
 | 3  | Febri Firmansyah              | 2042241103   |
 
 

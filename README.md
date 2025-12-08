@@ -143,6 +143,9 @@ SPS/
 
 This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details.
 
+##📹 video Sampling dan Penjelasan
+link [https://youtu.be/SuLlyfeAw_M?feature=shared]
+
 ## 💖 KELOMPOK 8
 
 Thanks for checking out the Sensor Processing System! We hope it's useful for your sensor data processing needs.

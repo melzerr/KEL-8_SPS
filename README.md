@@ -11,8 +11,8 @@ The Sensor Processing System (SPS) is a comprehensive solution for acquiring, pr
 | 3  | Febri Firmansyah              | 2042241103   |
 
 📹 video Sampling dan Penjelasan
-link
-```[https://youtu.be/SuLlyfeAw_M?feature=shared]```
+link:
+[https://youtu.be/SuLlyfeAw_M?feature=shared]
 
 ## 🚀 Key Features
 

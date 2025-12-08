@@ -10,7 +10,10 @@ The Sensor Processing System (SPS) is a comprehensive solution for acquiring, pr
 | 2  | Jeslyne Olita A D             | 2042241018   |
 | 3  | Febri Firmansyah              | 2042241103   |
 
-
+##📹 video Sampling dan Penjelasan
+link,,,
+[https://youtu.be/SuLlyfeAw_M?feature=shared]
+,,,
 ## 🚀 Key Features
 
 - **Real-time Data Visualization**: Displays sensor data in real-time using PyQt labels and pyqtgraph plots.
@@ -143,9 +146,6 @@ SPS/
 
 This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details.
 
-##📹 video Sampling dan Penjelasan
-link [https://youtu.be/SuLlyfeAw_M?feature=shared]
-,,,
 
 ## 💖 KELOMPOK 8
 
